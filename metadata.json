@@ -1,0 +1,6 @@
+{
+  "name": "Enat Mobile Banking",
+  "description": "Enat Bank mobile banking application featuring Keycloak activation, biometric & Face ID authentication, forced PIN setup, optimistic balance transactions, and mini app ecosystem.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
